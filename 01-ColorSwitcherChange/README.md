@@ -1,6 +1,6 @@
 ﻿# chai-aur-jsproject
 
- Overview
+ ##Overview
  
 This project provides a lightweight and easy-to-integrate color switcher functionality for web developers. Whether you want to add a night mode feature, customize your website's color palette, or enhance user experience with dynamic color options, colorSwitcherChange has got you covered.
 
