@@ -7,20 +7,27 @@ This project provides a lightweight and easy-to-integrate color switcher functio
 Features
 
 Dynamic Color Switching: Easily integrate color switcher functionality into your web projects.
+
 Customizable Options: Tailor the color switcher to match your design preferences.
+
 Lightweight and Fast: Minimal impact on page load times for optimal performance.
 
 Getting Started
 
 Include the colorSwitcherChange.js file in your project.
+
 Configure the color switcher options in your HTML or JavaScript code.
+
 Start dynamically changing colors on your website!
 
 Configuration Options
 
 primaryColor: Set the primary color for your website.
+
 secondaryColor: Define a secondary color for additional elements.
+
 backgroundColor: Customize the background color of your pages.
+
 Feel free to explore more configuration options in the documentation.
 
 Contribution Guidelines
